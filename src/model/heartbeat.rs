@@ -1,0 +1,1 @@
+// Heartbeat structs of the important scripts. It could be a monitor, alert, or strategy.
