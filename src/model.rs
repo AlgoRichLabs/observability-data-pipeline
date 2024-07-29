@@ -1,2 +1,2 @@
 mod heartbeat;
-mod okx_account;
+mod okx_account_model;
